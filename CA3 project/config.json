@@ -1,0 +1,16 @@
+{
+    "weather":{
+        "api_key": "424902d1170f15e67674e12d90596d12",
+        "base_url" : "http://api.openweathermap.org/data/2.5/weather?",
+        "place" : "Exeter"
+    },
+    "news":{
+        "api_key": "4cf293f1e16d481393e6c3a9ba628e2b",
+        "base_url": "https://newsapi.org/v2/top-headlines?",
+        "language": "en",
+        "country": "gb"
+    },
+    "cases": {
+        "nation": "England"
+    }
+}
